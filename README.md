@@ -22,3 +22,5 @@
 - Others: ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TaliwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=#06B6D4)&nbsp;
 
 <br/>
+
+![DaniCoppermind's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniCoppermind&theme=dracula&hide_border=false)
