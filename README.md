@@ -23,4 +23,4 @@
 
 <br/>
 
-![DaniCoppermind's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniCoppermind&theme=dracula&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniCoppermind&theme=dracula&hide_border=false" align="center" />
