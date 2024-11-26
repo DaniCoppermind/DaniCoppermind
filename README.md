@@ -11,7 +11,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&&logoColor=white)](https://daniel-garcia-dev.vercel.app/)
 
 <br/>
+
 🏋️ What about me?
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nsbp; Studying for my next path! **[Paris 42](https://42.fr/en/homepage/)**
