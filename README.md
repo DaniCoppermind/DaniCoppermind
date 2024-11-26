@@ -5,6 +5,11 @@
 <h3>I'm a Passionate Student of Software Development 👨‍💻</h3>
 <p>Falling in Love with Tech 🌱</p>
 
+ 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-gomez-devesa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&&logoColor=white)](https://jordigomez.dev/)
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nsbp; Studying for my next path! **[Paris 42](https://42.fr/en/homepage/)**
 - 🌱 &nbsp; Learning more about Clean Code, Systems Design and Web Development.
