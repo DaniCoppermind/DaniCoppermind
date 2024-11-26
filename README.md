@@ -7,8 +7,8 @@
 
  📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-gomez-devesa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&&logoColor=white)](https://jordigomez.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jordi-gomez-devesa/](https://www.linkedin.com/in/coppermindev/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&&logoColor=white)](https://daniel-garcia-dev.vercel.app/)
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nsbp; Studying for my next path! **[Paris 42](https://42.fr/en/homepage/)**
