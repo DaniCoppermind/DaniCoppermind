@@ -17,4 +17,4 @@
 🛠 Tech Stack
 
 - Backend: ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp; ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=d9224c)&nbsp;
-- Frontend: ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp; ![NextJs]() ![Vite]()
+- Frontend: ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp; ![NextJs](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp; ![Vite](https://img.shields.io/badge/Vite-05122A?style=flat&logo=Vite&logoColor=yellow)&nbsp;
