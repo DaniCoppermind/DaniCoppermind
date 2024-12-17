@@ -16,7 +16,7 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nsbp; Studying for my next path! **[Paris 42](https://42.fr/en/homepage/)**
+- 🎓 Studying for my next path! **[Paris 42](https://42.fr/en/homepage/)**
 - 🌱 &nbsp; Learning more about Clean Code, Systems Design and Web Development.
 
 🛠 Tech Stack
